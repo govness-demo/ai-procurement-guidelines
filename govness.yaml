@@ -1,0 +1,18 @@
+# Fictional demo block: see README.md.
+schema_version: 1
+id: "pan-african-digital-cooperation.ai-procurement-guidelines"
+name: "AI procurement guidelines for governments"
+type: "policy"
+version: "1.0.0"
+summary: "Model clauses and evaluation criteria for buying AI systems in the public sector."
+description: "Clauses on data ownership, auditability, exit and local hosting, with scoring criteria a tender committee can adopt as written."
+publisher:
+  environment: "pan-african-digital-cooperation"
+  body: "Pan-African Digital Cooperation Facility"
+languages: ["en", "fr"]
+license: "CC-BY-4.0"
+interfaces:
+  protocol: "other"
+links:
+  repo: "https://github.com/govness-demo/ai-procurement-guidelines"
+domains: ["ai-governance", "public-procurement"]
